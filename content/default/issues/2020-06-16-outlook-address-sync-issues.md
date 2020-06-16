@@ -2,7 +2,7 @@
 section: issue
 title: Outlook Address sync issues
 date: 2020-06-16T02:30:07.098Z
-status: resolved
+status: in_progress
 pinned: ""
 current_severity: monitoring
 max_severity: disrupted
