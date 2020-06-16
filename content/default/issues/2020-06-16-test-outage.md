@@ -3,7 +3,7 @@ section: issue
 title: test outage
 date: 2020-06-16T02:51:15.667Z
 status: in_progress
-pinned: ""
+pinned: top
 current_severity: maintenance
 max_severity: maintenance
 duration: ""
